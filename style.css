@@ -1,5 +1,6 @@
 body {
-    font-family: 'Tenali Ramakrishna', sans-serif;
+    /*font-family: 'Tenali Ramakrishna', sans-serif;*/
+    font-family: 'Cormorant', sans-serif;
 }
 
 body.pl *[lang=en] {
