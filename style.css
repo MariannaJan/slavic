@@ -22,4 +22,8 @@ body.en *[lang=pl] {
 .jumbotron {
     background-image: url("screen.png");
     background-size: cover;
-  }
+}
+
+.persona {
+    max-width: 200px;
+}
